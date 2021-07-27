@@ -13,5 +13,6 @@ public class App
         System.out.println("hello,hot-fix");
         System.out.println("master");
         System.out.println("fix2");
+        System.out.println("github fix");
     }
 }
