@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("提交过1次");
+        System.out.println("hello,hot-fix");
     }
 }
